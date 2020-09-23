@@ -1,0 +1,15 @@
+
+  .image{
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 50px;
+  height: auto;
+  }
+  .contact{
+    background-image: url(http://biblus.accasoftware.com/fr/wp-content/uploads/sites/4/2019/11/Atelier-mecanique-automobile-lodgiciel-BIM-architecture-Edificius.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+  }
